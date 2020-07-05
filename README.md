@@ -1,5 +1,5 @@
 # LIbrary-Management-System
-As its name says, this is a project in C# that lets you add, delete (students and books) and rent books from a library.
++As its name says, this is a project in C# that lets you add, delete (students and books) and rent books from a library.
 
 How To Start:
 1- Start Sql Server Management Studio
