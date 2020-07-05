@@ -1,0 +1,32 @@
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\obj\Debug\LMS.DashBoard.resources
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\obj\Debug\LMS.ManageStudents.resources
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\obj\Debug\LMS.ManageBooks.resources
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\bin\Debug\LMS.exe.config
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\obj\Debug\LMS.exe
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\obj\Debug\LMS.pdb
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\bin\Debug\LMS.exe
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\bin\Debug\LMS.pdb
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\obj\Debug\LMS.DashBoard.resources
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\obj\Debug\LMS.ManageBooks.resources
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\obj\Debug\LMS.ManageStudents.resources
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\obj\Debug\LMS.BorrowBooks.resources
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\obj\Debug\LMS.DashBoard.aa.resources
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\bin\Debug\aa\LMS.resources.dll
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\obj\Debug\aa\LMS.resources.dll
+C:\Users\Izzat Ala Eddine\Desktop\UNI\SEMESTERS\Spring 2020\CSCI370-Visual\LMS\LMS\obj\Debug\LMS.Login.resources
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\bin\Debug\aa\LMS.resources.dll
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\obj\Debug\LMS.BorrowBooks.resources
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\obj\Debug\LMS.Login.resources
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\obj\Debug\LMS.DashBoard.aa.resources
+D:\LIU\Spring 19-20\CSCI370 - Visual Programming\Project\LMS\LMS\obj\Debug\aa\LMS.resources.dll
